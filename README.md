@@ -30,24 +30,21 @@ An intelligent, real-time health monitoring web application that analyzes wearab
 ```csv
 timestamp,heart_rate,spo2,steps
 2025-07-13 08:00:00,75,98,100
+```
 
-▶️ How to Run Locally
+## ▶️ How to Run Locally
 bash
-Copy
-Edit
+
 git clone https://github.com/your-username/ai-health-monitor.git
 cd ai-health-monitor
 pip install -r requirements.txt
 streamlit run app.py
-☁️ How to Deploy to Streamlit Cloud
+
+## How to Deploy to Streamlit Cloud
 Push your code to GitHub
-
 Visit https://streamlit.io/cloud
-
 Click “New app”
-
 Connect your GitHub repo
-
 Set app.py as the main file
 
 Deploy 🚀
