@@ -47,9 +47,16 @@ Click “New app”
 Connect your GitHub repo
 Set app.py as the main file
 
-Deploy 🚀
+## 🚀 Live Demo
 
- You can now share your app URL with others.
+Try it now 👉 [Launch the App](https://ai-health-monitor-xqveoprirsdwr3mlrktvkm.streamlit.app)
+
+<p align="center">
+  <a href="https://ai-health-monitor-xqveoprirsdwr3mlrktvkm.streamlit.app" target="_blank">
+    <img src="https://img.shields.io/badge/Launch%20App-Streamlit-blue?style=for-the-badge&logo=streamlit" alt="Streamlit Live Demo Badge"/>
+  </a>
+</p>
+
 
 🧩 Future Work / IoT Integration
 For deploying with IoT Wearables, follow this direction:
